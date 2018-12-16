@@ -1,0 +1,15 @@
+{
+  "name": "strapi-consumer-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "strapi-example-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
